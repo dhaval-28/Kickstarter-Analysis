@@ -27,7 +27,7 @@ The goal with ranges less than 5000 has the most successful campaigns. The goal 
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
   1. May is the best month to launch the campaigns. 
-  (2) December is the worst month to launch the campaigns. 
+  2. December is the worst month to launch the campaigns. 
   
 ### What can you conclude about the Outcomes based on Goals?
   (1) Range < 1000 : Campaing with goal to raise less than 1000 have higher chances to succeed.  
