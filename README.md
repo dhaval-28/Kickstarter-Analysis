@@ -11,7 +11,7 @@ Louise wants to know how different campaigns fared in relation to their launch d
 
 ### Analysis of Outcomes Based on Launch Date
 The chart below gives a good picture of which months are the best and the worst to launch campaings.
-It clearly shows May has the most successul campaigns abd December has the most number of failures. 
+It clearly shows May has the most successul campaigns and December has the most number of failures. 
 Summer months are the better months to lunch cmpaign compare to winter months. 
 ![Kickstarter image 1](Images/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
@@ -26,7 +26,7 @@ The goal with ranges less than 5000 has the most successful campaigns. The goal 
 ## Results
 
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
-  (1) May is the best month to launch the campaigns. 
+  1. May is the best month to launch the campaigns. 
   (2) December is the worst month to launch the campaigns. 
   
 ### What can you conclude about the Outcomes based on Goals?
