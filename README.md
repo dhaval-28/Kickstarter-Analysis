@@ -3,7 +3,6 @@
 ## Overview of Project
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. 
 Using the Kickstarter dataset this project visualize campaign outcomes based on their launch dates and their funding goals.
-Using the Kickstarter dataset that you’ve already combed through, you’ll visualize campaign outcomes based on their launch dates and their funding goals. 
 
 ### Purpose
 Louise wants to know how different campaigns fared in relation to their launch dates and their funding goals.
@@ -11,13 +10,13 @@ Louise wants to know how different campaigns fared in relation to their launch d
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The chart below gives a good picture of which months are the best and worst to launch campaings.
+The chart below gives a good picture of which months are the best and the worst to launch campaings.
 It clearly shows May has the most successul campaigns abd December has the most number of failures. 
-summer months are the better months to lunch cmpaign compare to winter months. 
+Summer months are the better months to lunch cmpaign compare to winter months. 
 ![Kickstarter image 1](Images/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 The chart below explains which goal range has better chances to succeed and which goal range has the worst chances to succeed.
-The goal with ranges less than 5000 has the most successful campaigns. The goal range and success rate has an inverse relation. As the goal range increases, the success rate goes down. 
+The goal with ranges less than 5000 has the most successful campaigns. The goal range and success rate has an inverse relationship. As the goal range increases, the success rate goes down. 
 ![Kickstarter image 2](Images/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
