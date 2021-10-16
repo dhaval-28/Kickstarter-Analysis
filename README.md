@@ -38,7 +38,7 @@ The goal with ranges less than 5000 has the most successful campaigns. The goal 
   (2) Goal range of 45,000 to 49,000 has 0% sucess rate. But the dataset is limited to just 1 sample for that range.  Which makes it difficult to draw conclusions for this range.
   
 ### What are some other possible tables and/or graphs that we could create?
-  (1) Using the same amount range, a pie chart can be created to show number of cmpaigns for each of the goal range.  This will clearly show the sample slection is skwed in favor of smaller goals.
+  (1) Using the same amount range, a pie chart can be created to show number of campaigns for each of the goal range.  This will clearly show the sample selection is skewed in favor of smaller goals.
   
   
   
